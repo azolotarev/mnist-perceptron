@@ -56,7 +56,7 @@ I've chosen a simple accuracy metric to evaluate the model performance:
 
  *c ÷ t*
  
-*c* - number of correctly labeled digits;
-*t* - total number of digits in test dataset
+*c* - number of correctly labeled images;
+*t* - total number of images in test dataset
 
 Example: 946 correctly labeled images with a total of 1000 images in the dataset will result in 94,6% accuracy
